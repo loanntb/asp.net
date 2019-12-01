@@ -1,0 +1,9 @@
+D:\CSHARP\Array\Array\bin\Debug\Array.exe.config
+D:\CSHARP\Array\Array\bin\Debug\Array.exe
+D:\CSHARP\Array\Array\bin\Debug\Array.pdb
+D:\CSHARP\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+D:\CSHARP\Array\Array\obj\Debug\Array.Form1.resources
+D:\CSHARP\Array\Array\obj\Debug\Array.Properties.Resources.resources
+D:\CSHARP\Array\Array\obj\Debug\Array.csproj.GenerateResource.Cache
+D:\CSHARP\Array\Array\obj\Debug\Array.exe
+D:\CSHARP\Array\Array\obj\Debug\Array.pdb

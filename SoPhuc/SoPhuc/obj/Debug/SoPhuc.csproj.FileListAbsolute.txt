@@ -1,0 +1,9 @@
+D:\CSHARP\SoPhuc\SoPhuc\bin\Debug\SoPhuc.exe.config
+D:\CSHARP\SoPhuc\SoPhuc\obj\Debug\SoPhuc.csprojResolveAssemblyReference.cache
+D:\CSHARP\SoPhuc\SoPhuc\obj\Debug\SoPhuc.Form1.resources
+D:\CSHARP\SoPhuc\SoPhuc\obj\Debug\SoPhuc.Properties.Resources.resources
+D:\CSHARP\SoPhuc\SoPhuc\obj\Debug\SoPhuc.csproj.GenerateResource.Cache
+D:\CSHARP\SoPhuc\SoPhuc\bin\Debug\SoPhuc.exe
+D:\CSHARP\SoPhuc\SoPhuc\bin\Debug\SoPhuc.pdb
+D:\CSHARP\SoPhuc\SoPhuc\obj\Debug\SoPhuc.exe
+D:\CSHARP\SoPhuc\SoPhuc\obj\Debug\SoPhuc.pdb

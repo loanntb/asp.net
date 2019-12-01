@@ -1,0 +1,9 @@
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.exe.config
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.exe
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.pdb
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csprojResolveAssemblyReference.cache
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.Form1.resources
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.Properties.Resources.resources
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csproj.GenerateResource.Cache
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.exe
+D:\CSHARP\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.pdb

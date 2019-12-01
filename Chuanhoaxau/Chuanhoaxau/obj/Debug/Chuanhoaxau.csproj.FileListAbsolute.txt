@@ -1,0 +1,6 @@
+E:\CSHARP\Chuanhoaxau\Chuanhoaxau\bin\Chuanhoaxau.dll.config
+E:\CSHARP\Chuanhoaxau\Chuanhoaxau\bin\Chuanhoaxau.dll
+E:\CSHARP\Chuanhoaxau\Chuanhoaxau\bin\Chuanhoaxau.pdb
+E:\CSHARP\Chuanhoaxau\Chuanhoaxau\obj\Debug\Chuanhoaxau.csprojResolveAssemblyReference.cache
+E:\CSHARP\Chuanhoaxau\Chuanhoaxau\obj\Debug\Chuanhoaxau.dll
+E:\CSHARP\Chuanhoaxau\Chuanhoaxau\obj\Debug\Chuanhoaxau.pdb

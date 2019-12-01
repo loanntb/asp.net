@@ -1,0 +1,9 @@
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\bin\Debug\GiaiHePhuongTrinhClass.exe.config
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\bin\Debug\GiaiHePhuongTrinhClass.exe
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\bin\Debug\GiaiHePhuongTrinhClass.pdb
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\obj\Debug\GiaiHePhuongTrinhClass.csprojResolveAssemblyReference.cache
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\obj\Debug\GiaiHePhuongTrinhClass.Properties.Resources.resources
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\obj\Debug\GiaiHePhuongTrinhClass.csproj.GenerateResource.Cache
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\obj\Debug\GiaiHePhuongTrinhClass.exe
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\obj\Debug\GiaiHePhuongTrinhClass.pdb
+D:\CSHARP\GiaiHePhuongTrinhClass\GiaiHePhuongTrinhClass\obj\Debug\GiaiHePhuongTrinhClass.GHPT.resources

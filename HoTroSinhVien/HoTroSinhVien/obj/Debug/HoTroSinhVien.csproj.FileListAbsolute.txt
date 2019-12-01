@@ -1,0 +1,11 @@
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\bin\Debug\HoTroSinhVien.exe.config
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\bin\Debug\HoTroSinhVien.exe
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\bin\Debug\HoTroSinhVien.pdb
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\obj\Debug\HoTroSinhVien.csprojResolveAssemblyReference.cache
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\obj\Debug\HoTroSinhVien.frAddStudent.resources
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\obj\Debug\HoTroSinhVien.Properties.Resources.resources
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\obj\Debug\HoTroSinhVien.csproj.GenerateResource.Cache
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\obj\Debug\HoTroSinhVien.exe
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\obj\Debug\HoTroSinhVien.pdb
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\obj\Debug\HoTroSinhVien.Maincs.resources
+D:\CSHARP\HoTroSinhVien\HoTroSinhVien\obj\Debug\HoTroSinhVien.ManagementStudent.resources

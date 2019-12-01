@@ -1,0 +1,15 @@
+D:\CSHARP\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\CSHARP\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\CSHARP\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.csprojResolveAssemblyReference.cache
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.frmMain.resources
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.Cache
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.pdb
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.frmDSHH.resources
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.frmDMKH.resources
+D:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.frmDMND.resources
+E:\CSHARP\QLBH\QLBH\bin\Debug\QLBH.exe.config
+E:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.exe
+E:\CSHARP\QLBH\QLBH\obj\Debug\QLBH.pdb

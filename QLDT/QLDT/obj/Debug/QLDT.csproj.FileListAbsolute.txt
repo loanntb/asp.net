@@ -1,0 +1,11 @@
+D:\CSHARP\QLDT\QLDT\bin\Debug\QLDT.exe.config
+D:\CSHARP\QLDT\QLDT\bin\Debug\QLDT.exe
+D:\CSHARP\QLDT\QLDT\bin\Debug\QLDT.pdb
+D:\CSHARP\QLDT\QLDT\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+D:\CSHARP\QLDT\QLDT\obj\Debug\QLDT.Form1.resources
+D:\CSHARP\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+D:\CSHARP\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.Cache
+D:\CSHARP\QLDT\QLDT\obj\Debug\QLDT.exe
+D:\CSHARP\QLDT\QLDT\obj\Debug\QLDT.pdb
+D:\CSHARP\QLDT\QLDT\obj\Debug\QLDT.frmDeTai.resources
+D:\CSHARP\QLDT\QLDT\obj\Debug\QLDT.frmGiangVien.resources

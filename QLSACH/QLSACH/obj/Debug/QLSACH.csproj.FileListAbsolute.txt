@@ -1,0 +1,10 @@
+D:\CSHARP\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+D:\CSHARP\QLSACH\QLSACH\obj\Debug\QLSACH.csprojResolveAssemblyReference.cache
+D:\CSHARP\QLSACH\QLSACH\obj\Debug\QLSACH.frmLoaiSach.resources
+D:\CSHARP\QLSACH\QLSACH\obj\Debug\QLSACH.Properties.Resources.resources
+D:\CSHARP\QLSACH\QLSACH\obj\Debug\QLSACH.csproj.GenerateResource.Cache
+D:\CSHARP\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+D:\CSHARP\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+D:\CSHARP\QLSACH\QLSACH\obj\Debug\QLSACH.exe
+D:\CSHARP\QLSACH\QLSACH\obj\Debug\QLSACH.pdb
+D:\CSHARP\QLSACH\QLSACH\obj\Debug\QLSACH.frmSach.resources

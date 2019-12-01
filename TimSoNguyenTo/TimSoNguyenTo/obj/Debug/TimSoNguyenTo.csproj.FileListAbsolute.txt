@@ -1,0 +1,9 @@
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\bin\Debug\TimSoNguyenTo.exe.config
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\bin\Debug\TimSoNguyenTo.exe
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\bin\Debug\TimSoNguyenTo.pdb
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\obj\Debug\TimSoNguyenTo.csprojResolveAssemblyReference.cache
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\obj\Debug\TimSoNguyenTo.Form1.resources
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\obj\Debug\TimSoNguyenTo.Properties.Resources.resources
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\obj\Debug\TimSoNguyenTo.csproj.GenerateResource.Cache
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\obj\Debug\TimSoNguyenTo.exe
+D:\CSHARP\TimSoNguyenTo\TimSoNguyenTo\obj\Debug\TimSoNguyenTo.pdb

@@ -1,0 +1,9 @@
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\bin\Debug\GiaiHePhuongTrinh.exe.config
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\bin\Debug\GiaiHePhuongTrinh.exe
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\bin\Debug\GiaiHePhuongTrinh.pdb
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\obj\Debug\GiaiHePhuongTrinh.csprojResolveAssemblyReference.cache
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\obj\Debug\GiaiHePhuongTrinh.Form1.resources
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\obj\Debug\GiaiHePhuongTrinh.Properties.Resources.resources
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\obj\Debug\GiaiHePhuongTrinh.csproj.GenerateResource.Cache
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\obj\Debug\GiaiHePhuongTrinh.exe
+D:\CSHARP\GiaiHePhuongTrinh\GiaiHePhuongTrinh\obj\Debug\GiaiHePhuongTrinh.pdb

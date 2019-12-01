@@ -1,0 +1,6 @@
+E:\CSHARP\MayTinhBoTui\MayTinhBoTui\bin\MayTinhBoTui.dll.config
+E:\CSHARP\MayTinhBoTui\MayTinhBoTui\bin\MayTinhBoTui.dll
+E:\CSHARP\MayTinhBoTui\MayTinhBoTui\bin\MayTinhBoTui.pdb
+E:\CSHARP\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.dll
+E:\CSHARP\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.pdb
+E:\CSHARP\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.csprojResolveAssemblyReference.cache

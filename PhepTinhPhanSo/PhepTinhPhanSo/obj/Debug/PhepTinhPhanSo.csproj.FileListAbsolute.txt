@@ -1,0 +1,9 @@
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\bin\Debug\PhepTinhPhanSo.exe.config
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\bin\Debug\PhepTinhPhanSo.exe
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\bin\Debug\PhepTinhPhanSo.pdb
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.csprojResolveAssemblyReference.cache
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.Form1.resources
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.Properties.Resources.resources
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.csproj.GenerateResource.Cache
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.exe
+D:\CSHARP\PhepTinhPhanSo\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.pdb

@@ -1,0 +1,9 @@
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\bin\Debug\TinhTongS(n).exe.config
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\bin\Debug\TinhTongS(n).exe
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\bin\Debug\TinhTongS(n).pdb
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\obj\Debug\TinhTongS(n).csprojResolveAssemblyReference.cache
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\obj\Debug\TinhTongS_n_.Form1.resources
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\obj\Debug\TinhTongS_n_.Properties.Resources.resources
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\obj\Debug\TinhTongS(n).csproj.GenerateResource.Cache
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\obj\Debug\TinhTongS(n).exe
+D:\CSHARP\TinhTongS(n)\TinhTongS(n)\obj\Debug\TinhTongS(n).pdb

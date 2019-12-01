@@ -1,0 +1,10 @@
+D:\CSHARP\QLHV\QLHV\bin\Debug\QLHV.exe.config
+D:\CSHARP\QLHV\QLHV\bin\Debug\QLHV.exe
+D:\CSHARP\QLHV\QLHV\bin\Debug\QLHV.pdb
+D:\CSHARP\QLHV\QLHV\obj\Debug\QLHV.csprojResolveAssemblyReference.cache
+D:\CSHARP\QLHV\QLHV\obj\Debug\QLHV.Form1.resources
+D:\CSHARP\QLHV\QLHV\obj\Debug\QLHV.Properties.Resources.resources
+D:\CSHARP\QLHV\QLHV\obj\Debug\QLHV.csproj.GenerateResource.Cache
+D:\CSHARP\QLHV\QLHV\obj\Debug\QLHV.exe
+D:\CSHARP\QLHV\QLHV\obj\Debug\QLHV.pdb
+D:\CSHARP\QLHV\QLHV\obj\Debug\QLHV.frmHocVien.resources

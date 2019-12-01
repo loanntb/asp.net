@@ -1,0 +1,6 @@
+E:\CSHARP\TH6\TH6\bin\TH6.dll.config
+E:\CSHARP\TH6\TH6\bin\TH6.dll
+E:\CSHARP\TH6\TH6\bin\TH6.pdb
+E:\CSHARP\TH6\TH6\obj\Debug\TH6.csprojResolveAssemblyReference.cache
+E:\CSHARP\TH6\TH6\obj\Debug\TH6.dll
+E:\CSHARP\TH6\TH6\obj\Debug\TH6.pdb
